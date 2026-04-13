@@ -221,4 +221,4 @@ This application provides **educational health information only**. It is not:
 
 ---
 
-**Last Updated**: February 12, 2026
+**Last Updated**: April 13, 2026
